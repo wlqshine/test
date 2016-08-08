@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>http://192.168.8.43/ios/DrawCircle.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://192.168.8.43/ios/applied.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://192.168.8.43/ios/aiLi.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>

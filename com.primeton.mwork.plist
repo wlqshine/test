@@ -24,8 +24,8 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
+					<key>needs-shine</key>					
+<true/>
 					<key>url</key>
 					<string>http://mwork.primeton.com:30044/apps/57x57.png</string>
 				</dict>
